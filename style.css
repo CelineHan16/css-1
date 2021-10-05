@@ -5,11 +5,10 @@ h1 {
 
 p {
   color: rgb(255, 0, 255);
-  background-color: #C19648;
 }
 
 h2 {
-  color: rgb(rgb(253, 7, 7), green, blue);
+  color: rgb(237, 253, 7);
   background-color: salmon;
 }
 
@@ -20,20 +19,24 @@ a {
 
 #p2 {
   color: antiquewhite;
-  background-color: #5D6A64;
 }
 
 #p3 {
   color: #3E9F85;
-  background-color: #A6A998;
 }
 
 #p4 {
   color: #41354D;
-  background-color: #C19648;
 }
 
 #p5 {
-  color: (rgb(123, 255, 0);
-  background-color: rgb(173, 63, 29);
+  color: rgb(123, 255, 0);
+}
+.text-green {
+  color: white;
+  background-color: green;
+}
+.text-blue {
+  color: rgb(0, 0, 0);
+  background-color: rgb(65, 240, 225);
 }
