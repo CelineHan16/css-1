@@ -1,4 +1,19 @@
 h1 {
   color: red;
-  background-color: rgb(219, 163, 60);
+  background-color: blue;
+}
+
+p {
+  color: rgb(255, 0, 255);
+  background-color: #C19648;
+}
+
+h2 {
+  color: rgb(rgb(253, 7, 7), green, blue);
+  background-color: salmon;
+}
+
+a {
+  color: #391914;
+  background-color: #7E7593;
 }
